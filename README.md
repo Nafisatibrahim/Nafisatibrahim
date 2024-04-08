@@ -7,7 +7,7 @@ I'm a detail-oriented data professional with a strong mathematical background an
 ## About Me ✨
 - 📊 Aspiring Data Scientist with a mix of industry and academic experience.
 - 🏦 Business Analyst experience with HP Tech Ventures.
-- 📈 Strong background in Mathematics and Data Analytics with a high GPA from the University of North Texas.
+- 📈 Strong background in Mathematics and Data Analytics with a 3.8 GPA from the University of North Texas.
 - 🌐 Fluent in English and native in French, bridging communication in diverse environments.
 - 🔍 Analytical mindset, with a proven track record of improving data accuracy and efficiency.
 
