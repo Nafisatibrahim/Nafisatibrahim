@@ -9,6 +9,7 @@
 I'm a detail-oriented data professional with a strong mathematical background and a passion for data science, analytics, and leveraging data to drive informed decision-making and positive change.
 
 ![LinkedIn][linkedin-badge]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
 
 ## About Me ✨
 - 📊 Aspiring Data Scientist with a mix of industry and academic experience.
@@ -33,7 +34,7 @@ I'm a detail-oriented data professional with a strong mathematical background an
 
 ## Projects 📚
 - **KPMG AU Data Analytics Virtual Internship** - Conducted data quality analysis using Excel and Tableau.
-- _Additional projects to be added upon completion._
+- **Real Estate Market Analysis** - An exploration and predictive modeling project to understand real estate pricing patterns and provide insights for strategic investments.
 
 ## Leadership and Other Activities 🌟
 - Member of the National Society of Leadership & Success.
