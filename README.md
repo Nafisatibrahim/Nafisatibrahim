@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @Nafisatibrahim
-- 👀 I’m a student at University of North Texas majoring in Mathematics with a minor in Data Analytics.
-- 🌱 I’m currently learning Excel, SQL, Python and Tableau.
-- 💞️ I’m looking to collaborate on my projects.
-- 📫 How to reach me: Email: Nafisatibrahim@my.unt.edu || Nafisat.l@outlook.com
-
 # Hi there, I'm Nafisat Larissa Ibrahim 🤝
 
 I'm a detail-oriented data professional with a strong mathematical background and a passion for data science, analytics, and leveraging data to drive informed decision-making and positive change.
 
-![LinkedIn][linkedin-badge]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
 
 ## About Me ✨
@@ -47,7 +40,8 @@ I'm a detail-oriented data professional with a strong mathematical background an
 - I enjoy skydiving, being an active member of the National Society of Leadership and Success, and continually learning and growing in the field of data science.
 
 ## Connect with Me 🔗
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)][linkedin]
+- 📫 How to reach me: Email: Nafisatibrahim@my.unt.edu || Nafisat.l@outlook.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
 
 <!-- Actual link to your LinkedIn profile -->
 [linkedin]: https://www.linkedin.com/in/nafisat-ibrahim-14508725a
