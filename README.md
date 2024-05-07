@@ -44,6 +44,7 @@ I'm a detail-oriented data professional with a strong mathematical background an
 ## Projects 📚
 - **KPMG AU Data Analytics Virtual Internship** - Conducted data quality analysis using Excel and Tableau.
 - **Real Estate Market Analysis** - An exploration and predictive modeling project to understand real estate pricing patterns and provide insights for strategic investments.
+- **Statistical Analysis of Walking Styles** - Utilized R to conduct a detailed statistical examination of energy expenditures across different walking styles inspired by Monty Python's "Ministry of Silly Walks." The project included advanced statistical tests like ANOVA and regression analysis to identify significant differences in energy usage, which are critical for applications in fields like physical therapy and fitness. [View the project on GitHub](https://github.com/NafisatIbrahim/SillyWalks-EnergyExpenditure)
 
 ## Leadership and Other Activities 🌟
 - Active Member of the National Society of Leadership & Success.
