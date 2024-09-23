@@ -30,7 +30,7 @@ I'm a detail-oriented data professional with a strong mathematical background an
   Analyzed pre-seed stage startups, leveraging data analytics tools and methodologies to evaluate business models, market strategies, and value chains.
 
 - **Student Assistant** at University of North Texas, Denton, TX  
-  _April 2023 – Present_  
+  _April 2023 – May 2024_  
   Assisted with daily administrative tasks and supported faculty and staff, improving departmental efficiency and student communication.
 
 - **Data Coding, SQL & Python Trainee** at The Global Tech Experience, Denton, TX  
