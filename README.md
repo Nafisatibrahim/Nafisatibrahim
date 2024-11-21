@@ -27,7 +27,7 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
     </td>
     <td>
       <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/book.png" alt="Book Recommendation Engine" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="200" height="200">
       </a>
       <br>
       <b>🟢 Book Recommendation Engine</b>
