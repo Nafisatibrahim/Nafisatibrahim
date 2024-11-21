@@ -188,6 +188,8 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 <!-- Badges -->
 [linkedin-badge]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!---
 Nafisatibrahim/Nafisatibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
