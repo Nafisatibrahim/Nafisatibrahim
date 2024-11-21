@@ -153,6 +153,18 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 - **IBM AI Developer Professional Certificate**  
 - **KPMG Virtual Internship in Data Analytics**
 
+## Relevant Courses 📚
+
+| **Course Name**                              | **Platform**    | **Skills Learned**                                                                                   | **Link**                                                                                                     |
+|----------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Introduction to HTML, CSS, & JavaScript      | IBM             | Web development basics, HTML/CSS, dynamic JavaScript                                                | [Link Placeholder]()                                                                                        |
+| Generative AI: Prompt Engineering Basics     | IBM             | Prompt crafting, neural networks, generative AI applications                                        | [Link Placeholder]()                                                                                        |
+| Generative AI: Introduction and Applications | IBM             | Fundamentals of generative AI, deep learning workflows                                              | [Link Placeholder]()                                                                                        |
+| Introduction to Artificial Intelligence (AI) | IBM             | AI technologies, machine learning, computer vision                                                  | [Link Placeholder]()                                                                                        |
+| Introduction to Software Engineering         | IBM             | Agile development, software engineering tools, application design                                   | [View Certificate](https://coursera.org/share/89fd260782af697746cd625329792934)                              |
+| What is Data Science?                        | IBM             | Data science concepts, big data, data mining, machine learning                                      | [Link Placeholder]()                                                                                        |
+
+
 ## What I'm Working On 🚀
 - Learning advanced machine learning techniques and cloud computing (GCP).  
 - Building a portfolio of interactive dashboards and machine learning models.  
