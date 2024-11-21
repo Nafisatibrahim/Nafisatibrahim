@@ -14,21 +14,25 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 
 ## Featured Projects 🌟
 
-<table style="width: 100%; border-spacing: 20px;">
+<table>
   <tr>
-    <td style="border: 2px solid #4caf50; border-radius: 8px; padding: 10px; background-color: #1e1e2f; text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200" style="border-radius: 8px;">
-        <h3 style="color: #4caf50;">🔵 Real Estate Market Analysis</h3>
+    <td>
+      <a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200">
       </a>
-      <p style="color: #d1d1e1;">Predicting prices using Random Forest Regressor for strategic real estate investments.</p>
+      <br>
+      <b>🔵 Real Estate Market Analysis</b>
+      <br>
+      Predicting prices using Random Forest Regressor for strategic real estate investments.
     </td>
-    <td style="border: 2px solid #2196f3; border-radius: 8px; padding: 10px; background-color: #1e1e2f; text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="200" height="200" style="border-radius: 8px;">
-        <h3 style="color: #2196f3;">🟢 Book Recommendation Engine</h3>
+    <td>
+      <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="200" height="200">
       </a>
-      <p style="color: #d1d1e1;">Personalized book suggestions using collaborative filtering and React.</p>
+      <br>
+      <b>🟢 Book Recommendation Engine</b>
+      <br>
+      Personalized book suggestions using collaborative filtering and React.
     </td>
   </tr>
 </table>
