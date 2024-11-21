@@ -15,8 +15,11 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 ## Featured Projects 🌟
 
 ### [Real Estate Market Analysis](https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices)  
-[![Real Estate Housing Project](https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg)](https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices)  
+<a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices">
+  <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200">
+</a>  
 Predicting prices using Random Forest Regressor for strategic real estate investments.
+
 
 ## Core Skills 🛠️
 
