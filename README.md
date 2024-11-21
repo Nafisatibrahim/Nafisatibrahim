@@ -12,34 +12,29 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 - 🌐 Bilingual: Fluent in English and Native in French, enabling global collaboration.
 - 🔍 Proven ability to turn data into actionable insights through predictive modeling, machine learning, and advanced analytics.
 
-## 🌟 Featured Projects
+## Featured Projects 🌟
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<!-- Project 1 -->
-<div style="width: 45%; border: 2px solid #4caf50; border-radius: 8px; padding: 10px; background-color: #1e1e2f;">
-  <a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Market Analysis" style="width: 100%; border-radius: 8px;">
-    <h3 style="color: #4caf50; text-align: center; margin: 10px 0;">🔵 Real Estate Market Analysis</h3>
-    <p style="color: #d1d1e1; text-align: center;">Predicting prices using Random Forest Regressor for strategic real estate investments.</p>
-  </a>
-</div>
-
-<!-- Project 2 -->
-<div style="width: 45%; border: 2px solid #2196f3; border-radius: 8px; padding: 10px; background-color: #1e1e2f;">
-  <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/book.png" alt="Book Recommendation Engine" style="width: 100%; border-radius: 8px;">
-    <h3 style="color: #2196f3; text-align: center; margin: 10px 0;">🟢 Book Recommendation Engine</h3>
-    <p style="color: #d1d1e1; text-align: center;">Personalized book suggestions using collaborative filtering and React.</p>
-  </a>
-</div>
-
-</div>
-
-
-
-
-
+<table style="width: 100%; border-spacing: 20px;">
+  <tr>
+    <!-- Real Estate Project -->
+    <td style="border: 2px solid #4caf50; border-radius: 8px; padding: 10px; background-color: #1e1e2f; text-align: center;">
+      <a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200" style="border-radius: 8px;">
+        <h3 style="color: #4caf50;">🔵 Real Estate Market Analysis</h3>
+      </a>
+      <p style="color: #d1d1e1;">Predicting prices using Random Forest Regressor for strategic real estate investments.</p>
+    </td>
+    
+    <!-- Book Recommendation Project -->
+    <td style="border: 2px solid #2196f3; border-radius: 8px; padding: 10px; background-color: #1e1e2f; text-align: center;">
+      <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="200" height="200" style="border-radius: 8px;">
+        <h3 style="color: #2196f3;">🟢 Book Recommendation Engine</h3>
+      </a>
+      <p style="color: #d1d1e1;">Personalized book suggestions using collaborative filtering and React.</p>
+    </td>
+  </tr>
+</table>
 
 ## Core Skills 🛠️
 
