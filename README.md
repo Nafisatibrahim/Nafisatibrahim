@@ -16,7 +16,6 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 
 <table style="width: 100%; border-spacing: 20px;">
   <tr>
-    <!-- Real Estate Project -->
     <td style="border: 2px solid #4caf50; border-radius: 8px; padding: 10px; background-color: #1e1e2f; text-align: center;">
       <a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200" style="border-radius: 8px;">
@@ -24,8 +23,6 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
       </a>
       <p style="color: #d1d1e1;">Predicting prices using Random Forest Regressor for strategic real estate investments.</p>
     </td>
-    
-    <!-- Book Recommendation Project -->
     <td style="border: 2px solid #2196f3; border-radius: 8px; padding: 10px; background-color: #1e1e2f; text-align: center;">
       <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="200" height="200" style="border-radius: 8px;">
@@ -35,6 +32,7 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
     </td>
   </tr>
 </table>
+
 
 ## Core Skills 🛠️
 
