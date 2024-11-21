@@ -12,6 +12,12 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 - 🌐 Bilingual: Fluent in English and Native in French, enabling global collaboration.
 - 🔍 Proven ability to turn data into actionable insights through predictive modeling, machine learning, and advanced analytics.
 
+## Featured Projects 🌟
+
+### [Real Estate Market Analysis](https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices)  
+[![Real Estate Housing Project](https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg)](https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices)  
+Predicting prices using Random Forest Regressor for strategic real estate investments.
+
 ## Core Skills 🛠️
 
 | **Category**               | **Tools/Technologies**                                               |
