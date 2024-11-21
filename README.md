@@ -21,21 +21,22 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
         <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200">
       </a>
       <br>
-      <b>Real Estate Market Analysis</b>
+      <b><span style="color:blue;">Real Estate Market Analysis</span></b>
       <br>
       Predicting prices using Random Forest Regressor for strategic real estate investments.
     </td>
     <td>
       <a href="https://github.com/Nafisatibrahim/Book-Recommendation-Engine">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.png" alt="Book Recommendation Engine" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/book.png" alt="Book Recommendation Engine" width="200" height="200">
       </a>
       <br>
-      <b>Book Recommendation Engine</b>
+      <b><span style="color:green;">Book Recommendation Engine</span></b>
       <br>
       Personalized book suggestions using collaborative filtering and React.
     </td>
   </tr>
 </table>
+
 
 
 
