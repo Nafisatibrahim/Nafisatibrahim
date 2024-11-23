@@ -161,7 +161,6 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 | Introduction to Artificial Intelligence (AI) | IBM             | AI technologies, machine learning, computer vision                                                  | [View Certificate](https://coursera.org/share/5a836794bb360a805639cc8ba011e164)                              |
 | Introduction to Software Engineering         | IBM             | Agile development, software engineering tools, application design                                   | [View Certificate](https://coursera.org/share/89fd260782af697746cd625329792934)                              |
 | What is Data Science?                        | IBM             | Data science concepts, big data, data mining, machine learning                                      | [View Certificate](https://coursera.org/share/28f34fde0abe09350a36efcb21d6242a)                              |
-                   |
 
 
 ## What I'm Working On 🚀
