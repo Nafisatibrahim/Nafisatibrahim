@@ -154,12 +154,14 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 
 | **Course Name**                              | **Platform**    | **Skills Learned**                                                                                   | **Link**                                                                                                     |
 |----------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Python for Data Science, AI & Development    | IBM             | Python programming, data analysis, using libraries like Pandas & NumPy, API usage, and web scraping | [View Certificate](https://coursera.org/share/12b9537f300e185344c3850bd5c1dd03)                              |
 | Introduction to HTML, CSS, & JavaScript      | IBM             | Web development basics, HTML/CSS, dynamic JavaScript                                                | [View Certificate](https://coursera.org/share/a65dc268a00a692694a8833d35771369)                              |
 | Generative AI: Prompt Engineering Basics     | IBM             | Prompt crafting, neural networks, generative AI applications                                        | [View Certificate](https://coursera.org/share/6ea7057659b6c40c47eeac50a366d14a)                              |
 | Generative AI: Introduction and Applications | IBM             | Fundamentals of generative AI, deep learning workflows                                              | [View Certificate](https://coursera.org/share/94677e30e6fba783217e409997f9b15e)                              |
 | Introduction to Artificial Intelligence (AI) | IBM             | AI technologies, machine learning, computer vision                                                  | [View Certificate](https://coursera.org/share/5a836794bb360a805639cc8ba011e164)                              |
 | Introduction to Software Engineering         | IBM             | Agile development, software engineering tools, application design                                   | [View Certificate](https://coursera.org/share/89fd260782af697746cd625329792934)                              |
 | What is Data Science?                        | IBM             | Data science concepts, big data, data mining, machine learning                                      | [View Certificate](https://coursera.org/share/28f34fde0abe09350a36efcb21d6242a)                              |
+                   |
 
 
 ## What I'm Working On 🚀
