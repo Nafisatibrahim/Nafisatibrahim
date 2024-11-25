@@ -17,7 +17,7 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices">
+      <a href="[https://github.com/Nafisatibrahim/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices](https://github.com/Nafisatibrahim/house_predictor_frontend)">
         <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200">
       </a>
       <br>
