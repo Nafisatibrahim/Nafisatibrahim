@@ -86,9 +86,9 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 
 ### **Data Analyst**  
 **Exyte**, Dallas, TX (May 2024 – Present)  
-- Developed Power BI dashboards to visualize performance metrics, reducing data retrieval time by 40%.  
-- Built a 3D model viewer integrated with Navisworks, improving project collaboration and reducing rework by 20%.  
-- Created predictive models in Python, improving workload forecasting accuracy by 30%.
+- Developed Power BI dashboards to visualize performance metrics.
+- Created predictive models in Python, improving workload forecasting accuracy.
+- Collaborate with cross-functional teams to support data-driven strategies and process improvements.
 
 ---
 
