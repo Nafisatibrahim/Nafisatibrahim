@@ -3,8 +3,9 @@
 🔍 Aspiring Data Scientist | 📊 Data-Driven Problem Solver | 🤖 AI Enthusiast  
 Passionate about leveraging data, machine learning, and AI to create innovative solutions and drive informed decision-making.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
 [![Resume](https://img.shields.io/badge/View%20My%20Resume-red?style=flat-square&logo=microsoft-word&logoColor=white)](https://nafisatibrahim.github.io/Nafisat-Ibrahim-resume/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nafisat.ibrahim)
 
 ## About Me ✨
 - 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
