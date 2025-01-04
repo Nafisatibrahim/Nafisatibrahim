@@ -13,31 +13,41 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 - 🎓 Mathematics major with a minor in Data Analytics (3.8 GPA) from the University of North Texas.
 - 🌐 Bilingual: Fluent in English and Native in French, enabling global collaboration.
 - 🔍 Proven ability to turn data into actionable insights through predictive modeling, machine learning, and advanced analytics.
-
 ## Featured Projects 🌟
 
 <table>
   <tr>
     <td style="text-align: center;">
       <a href="https://github.com/Nafisatibrahim/house_predictor_frontend">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="400" height="200">
       </a>
       <br>
       <b>🔵 Real Estate Market Analysis</b>
       <br>
-      Predicting prices using Random Forest Regressor for strategic real estate investments.
+      Predicting prices using Random Forest Regressor for real estate investments.
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/Nafisatibrahim/book_recommendation_frontend">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="400" height="200">
       </a>
       <br>
-      <b>🟢 Book Recommendation Engine</b>
+      <b>🔴 Book Recommendation Engine</b>
       <br>
       Personalized book suggestions using collaborative filtering and React.
     </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/Nafisatibrahim/wicked_movie_sentiment_analysis">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/wicked-cynthia-erivo-ariana-grande.webp" alt="Wicked Sentiment Analysis" width="400" height="200">
+      </a>
+      <br>
+      <b>🟢 Wicked Sentiment Analysis</b>
+      <br>
+      Analyzing public sentiment toward the movie *Wicked* using Google Search and Python.
+    </td>
   </tr>
 </table>
+
+
 
 
 
