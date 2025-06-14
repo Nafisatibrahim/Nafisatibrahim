@@ -1,6 +1,6 @@
 # Hi there, I'm Nafisat Larissa Ibrahim 🤝
 
-🔍 Aspiring Data Scientist | 📊 Data-Driven Problem Solver | 🤖 AI Enthusiast  
+🔍 Data Scientist | 📊 Data-Driven Problem Solver | 🤖 Machine Learning & AI Enthusiast  
 Passionate about leveraging data, machine learning, and AI to create innovative solutions and drive informed decision-making.
 
 [![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://nafisatibrahim.github.io/Nafisat-Ibrahim-resume/)
