@@ -48,34 +48,6 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/DietVision-TheSmartPlaters">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/thumbnail.jpg" alt="DietVision.ai" width="400" height="200">
-      </a><br>
-      <b>🟢 DietVision.ai</b><br>
-      AI-powered nutrition assistant that analyzes meals and offers personalized diet recommendations.
-    </td>
-
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/house_predictor_frontend">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Market Analysis" width="400" height="200">
-      </a><br>
-      <b>🔵 Real Estate Market Analysis</b><br>
-      Predicting prices using Random Forest Regressor for real estate investments.
-    </td>
-
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/book_recommendation_frontend">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="400" height="200">
-      </a><br>
-      <b>🔴 Book Recommendation Engine</b><br>
-      Personalized book suggestions using collaborative filtering and React.
-    </td>
-  </tr>
-</table>
-
 
 
 
