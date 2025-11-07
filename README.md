@@ -1,4 +1,4 @@
-# Hi there, I'm Nafisat Larissa Ibrahim 🤝
+# Hi there, I'm Nafisat Ibrahim 🤝
 
 🔍 Data Scientist | 📊 Data-Driven Problem Solver | 🤖 Machine Learning & AI Enthusiast  
 Passionate about leveraging data, machine learning, and AI to create innovative solutions and drive informed decision-making.
@@ -8,16 +8,35 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nafisat.ibrahim)
 
 ## About Me ✨
-- 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
-- 🏦 Experience as a Data Analyst and Business Analyst, combining technical expertise with business insights.
-- 🎓 Mathematics major with a minor in Data Analytics (3.8 GPA) from the University of North Texas.
-- 🌐 Bilingual: Fluent in English and Native in French, enabling global collaboration.
-- 🔍 Proven ability to turn data into actionable insights through predictive modeling, machine learning, and advanced analytics.
+- 🎓 **Master’s student in Data Science at the University of Waterloo**
+- 🤖 Passionate about Data Science, Machine Learning, AI, Deep Learning, and Computer Vision, with interests spanning tech, banking, and construction industries.
+- 💼 Over 2 years of experience as a Data Scientist and Analyst, combining technical depth with strong business understanding to deliver impactful insights and predictive models.  
+- 🌍 Bilingual — fluent in English and French, enabling effective collaboration in diverse, global environments.  
+- 🔍 Skilled in transforming data into actionable intelligence through statistical modeling, predictive analytics, and data visualization.  
+
   
 ## Featured Projects 🌟
 
 <table>
   <tr>
+    <td style="text-align: center;">
+      <a href="https://github.com/Nafisatibrahim/DietVision-TheSmartPlaters">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/DietVision.ai.png" alt="DietVision.ai thumbnail" width="300" height="190">
+      </a>
+      <br>
+      <b>🟢 DietVision.ai</b>
+      <br>
+      AI-powered nutrition assistant that analyzes meals and offers personalized diet recommendations.
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/Nafisatibrahim/facial_emotion_detection_deep_learning">
+        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/facial-emotion-detection.webp" alt="Facial Emotion Detection" width="400" height="200">
+      </a>
+      <br>
+      <b>🔴 Facial Emotio Detection</b>
+      <br>
+      Deep learning model that recognizes human emotions from facial expressions using Convolutional Neural Networks (CNNs).
+    </td>
     <td style="text-align: center;">
       <a href="https://github.com/Nafisatibrahim/house_predictor_frontend">
         <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="400" height="200">
@@ -27,24 +46,8 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
       <br>
       Predicting prices using Random Forest Regressor for real estate investments.
     </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/book_recommendation_frontend">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/books.jpg" alt="Book Recommendation Engine" width="400" height="200">
-      </a>
-      <br>
-      <b>🔴 Book Recommendation Engine</b>
-      <br>
-      Personalized book suggestions using collaborative filtering and React.
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/wicked_movie_sentiment_analysis">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/wicked-cynthia-erivo-ariana-grande.webp" alt="Wicked Sentiment Analysis" width="400" height="200">
-      </a>
-      <br>
-      <b>🟢 Wicked Sentiment Analysis</b>
-      <br>
-      Analyzing public sentiment toward the movie *Wicked* using Google Search and Python.
-    </td>
+    
+    
   </tr>
 </table>
 
@@ -54,14 +57,14 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 
 ## Core Skills 🛠️
 
-| **Category**               | **Tools/Technologies**                                               |
-|----------------------------|--------------------------------------------------------------------|
-| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn), SQL, R, JavaScript, HTML, CSS, SAS |
-| **Data Visualization**     | Tableau, Power BI, Matplotlib, Seaborn                            |
-| **Web Development**        | React, Node.js, HTML, CSS, JavaScript                             |
-| **Data Processing**        | OpenRefine, Excel, Jupyter Notebook                               |
-| **Machine Learning**       | Random Forest, Regression, Collaborative Filtering                |
-| **Cloud Platforms**        | Google Cloud Platform                                             |
+| **Category**               | **Tools/Technologies**                                                   |
+|----------------------------|--------------------------------------------------------------------      |
+| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, TensorFlow), SQL, R                                     |
+| **Data Science & Analytics** | Data Cleaning, Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Statistical Analysis            |
+| **Data Visualization**     | Tableau, Power BI, Matplotlib, Seaborn                                                                            |
+| **Web Development**        | React, Node.js, HTML, CSS, JavaScript                                                                             |
+| **Machine Learning**       | Supervised and Unsupervised Learning — Regression, Classification, Clustering, Random Forest, CNNs, Deep Learning |
+| **Cloud Platforms**        | Google Cloud Platform (GCP), Vertex AI), Streamlit                                                                |
 
 ## Technical Stack 🚀
 
@@ -93,7 +96,11 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
   **Achievements**:
   - Dean's List Recipient for Outstanding Academic Performance.
   - Completed machine learning-focused projects, including real estate price prediction and a collaborative filtering recommendation engine.
+  - 
+## 🏅 Certifications  
 
+- 🎓 **MIT Professional Education – Applied Data Science Program: Leveraging AI for Effective Decision-Making**  
+  [View Credential →](https://credentials.professional.mit.edu/586700a8-d0a2-4c13-b63b-34780a3fd9eb#acc.d243U0Dx)
 
 ## Experience 🛠️
 
@@ -137,6 +144,21 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 
 
 ## Projects 📚
+### [**DietVision.ai — AI-Powered Nutrition Assistant**](https://github.com/Nafisatibrahim/DietVision-TheSmartPlaters)  
+- Developed an **AI-powered nutrition web app** that analyzes meal images and provides detailed nutritional insights.  
+- Integrated a **food image classification model (Food-101)** using **TensorFlow and Keras** for accurate meal recognition.  
+- Designed an **intelligent chatbot (Ella)** using **Gemini API** to deliver personalized diet recommendations.  
+- Deployed on **Streamlit Cloud**, integrating **Google OAuth** and **Vertex AI** for authentication and inference.
+
+---
+
+### [**Facial Emotion Detection**](https://github.com/Nafisatibrahim/facial_emotion_detection_deep_learning)  
+- Built a **Convolutional Neural Network (CNN)** model to detect and classify human emotions from facial expressions.  
+- Trained on **FER-2013 dataset** using **TensorFlow and Keras** to identify key emotions such as happiness, anger, and sadness.  
+- Designed a **Streamlit interface** for real-time emotion detection from uploaded images or webcam input.  
+- Applied **OpenCV preprocessing** and data augmentation to improve accuracy and robustness.
+
+---
 
 ### [**Real Estate Market Analysis**](https://github.com/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices)  
 - Built a predictive model using Random Forest Regressor for accurate real estate price forecasting.  
@@ -160,7 +182,6 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
 - Engaged in the HelloFinance Virtual Summer Series, absorbing knowledge from industry giants like Morgan Stanley and Goldman Sachs.
 
 ## Certifications 🏅
-- **IBM Data Science Professional Certificate** (In progress)  
 - **IBM AI Developer Professional Certificate**  
 - **KPMG Virtual Internship in Data Analytics**
 
