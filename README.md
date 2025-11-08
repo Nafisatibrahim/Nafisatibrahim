@@ -33,7 +33,7 @@ Passionate about leveraging data, machine learning, and AI to create innovative 
         <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/facial-emotion-detection.webp" alt="Facial Emotion Detection" width="400" height="200">
       </a>
       <br>
-      <b>🔴 Facial Emotio Detection</b>
+      <b>🔴 Facial Emotion Detection</b>
       <br>
       Deep learning model that recognizes human emotions from facial expressions using Convolutional Neural Networks (CNNs).
     </td>
