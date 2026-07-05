@@ -1,230 +1,246 @@
-# Hi there, I'm Nafisat Ibrahim 🤝
+<div align="center">
 
-🔍 Data Scientist | 📊 Data-Driven Problem Solver | 🤖 Machine Learning & AI Enthusiast  
-Passionate about leveraging data, machine learning, and AI to create innovative solutions and drive informed decision-making.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nafisat+Ibrahim+%F0%9F%91%8B;Data+Scientist+%7C+GenAI+%26+Agentic+AI;MMath+Data+Science+%40+University+of+Waterloo" alt="Typing SVG" />
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://nafisatibrahim.github.io/Nafisat-Ibrahim-resume/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nafisat.ibrahim)
+<p>
+<a href="https://nafisatibrahim.com"><img src="https://img.shields.io/badge/Portfolio-nafisatibrahim.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://nafisatibrahim.github.io/Nafisat-Ibrahim-resume/"><img src="https://img.shields.io/badge/Resume-View-EC4899?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+</p>
+
+<p>
+<a href="https://github.com/Nafisatibrahim"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nafisatibrahim"><img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@nafisat.ibrahim"><img src="https://skillicons.dev/icons?i=medium" width="44" height="44" alt="Medium" /></a>&nbsp;&nbsp;
+<a href="mailto:nafisat.larissa.ibrahim@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Gmail" /></a>
+</p>
+
+</div>
 
 ## About Me ✨
-- 🎓 **Master’s student in Data Science at the University of Waterloo**
-- 🤖 Passionate about Data Science, Machine Learning, AI, Deep Learning, and Computer Vision, with interests spanning tech, banking, and construction industries.
-- 💼 Over 2 years of experience as a Data Scientist and Analyst, combining technical depth with strong business understanding to deliver impactful insights and predictive models.  
-- 🌍 Bilingual — fluent in English and French, enabling effective collaboration in diverse, global environments.  
-- 🔍 Skilled in transforming data into actionable intelligence through statistical modeling, predictive analytics, and data visualization.  
 
-  
-## Featured Projects 🌟
+🔍 **Data Scientist** building GenAI, agentic AI, and machine learning systems end to end, from raw data to deployed, user-facing products.
+
+🎓 Currently pursuing a **Master of Mathematics in Data Science** at the **University of Waterloo** (expected Apr 2027).
+
+📖 More about me at **[nafisatibrahim.com](https://nafisatibrahim.com)**
+
+- 🤖 **Technical Project Management, Machine Learning @ WAT.ai**: leading a team of 7 on applied ML research, including preference-based reinforcement learning and imitation learning.
+- 🚀 **Founder & Program Lead @ BuildersLab**: built a cohort-based applied AI program from scratch for 10+ students across 3 project teams.
+- 👩‍🏫 **Teaching Assistant, STAT 441/841** (Statistical Learning: Classification) @ Waterloo.
+- 🌍 Bilingual: English (fluent) and French (native).
+
+---
+
+## 💼 Work Experience
 
 <table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/DietVision-TheSmartPlaters">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/DietVision.ai.png" alt="DietVision.ai thumbnail" width="300" height="190">
-      </a>
-      <br>
-      <b>🟢 DietVision.ai</b>
-      <br>
-      AI-powered nutrition assistant that analyzes meals and offers personalized diet recommendations.
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/facial_emotion_detection_deep_learning">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/facial-emotion-detection.webp" alt="Facial Emotion Detection" width="400" height="200">
-      </a>
-      <br>
-      <b>🔴 Facial Emotion Detection</b>
-      <br>
-      Deep learning model that recognizes human emotions from facial expressions using Convolutional Neural Networks (CNNs).
-    </td>
-    <td style="text-align: center;">
-      <a href="https://github.com/Nafisatibrahim/house_predictor_frontend">
-        <img src="https://raw.githubusercontent.com/Nafisatibrahim/Images/main/housing.jpg" alt="Real Estate Housing Project" width="400" height="200">
-      </a>
-      <br>
-      <b>🔵 Real Estate Market Analysis</b>
-      <br>
-      Predicting prices using Random Forest Regressor for real estate investments.
-    </td>
-    
-    
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+**Technical Project Management, Machine Learning**
+[WAT.ai](https://watai.ca/) · Waterloo, ON
+*Dec 2025 - Present*
+
+Leading a team of 7 on an applied ML research project in Python and PyTorch, running preference-based reinforcement learning and imitation learning experiments. Integrating Gemini as a vision-language model evaluator to automatically score model outputs and guide team decisions.
+
+</td>
+<td valign="top" width="50%">
+
+**Data Analyst**
+Exyte U.S. · Dallas, TX
+*May 2024 - Aug 2025*
+
+Built real-time Power BI dashboards and Python/Excel VBA workflows, improving planning accuracy by 30% and reducing information retrieval time by 50%. Identified unmet reporting needs and translated ambiguous business problems into concrete data solutions for senior leadership.
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**Founder & Program Lead**
+[BuildersLab](https://github.com/Nafisatibrahim) · Waterloo, ON
+*Jan 2026 - Present*
+
+Designed and launched a cohort-based applied AI program from the ground up: scoping projects, recruiting participants, developing curriculum, and facilitating three active ML/AI project teams through problem framing and milestone delivery.
+
+</td>
+</tr>
 </table>
 
+---
 
+## 🔬 Research
 
+<table>
+<tr>
+<td valign="top">
 
+### 🫁 [Robust and Interpretable Pneumonia Detection from Chest X-Rays](https://github.com/Nafisatibrahim/pneumonia_detection)
+**University of Waterloo** · Sep 2025 - Dec 2025
 
-## Core Skills 🛠️
+Developed an end-to-end deep learning pipeline benchmarking supervised vs. self-supervised learning (SimCLR) with a MobileNetV2 encoder on 28K+ chest X-ray images. Evaluated model robustness under adversarial perturbations (FGSM) and analyzed interpretability via Grad-CAM.
 
-| **Category**               | **Tools/Technologies**                                                   |
-|----------------------------|--------------------------------------------------------------------      |
-| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, TensorFlow), SQL, R                                     |
-| **Data Science & Analytics** | Data Cleaning, Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Statistical Analysis            |
-| **Data Visualization**     | Tableau, Power BI, Matplotlib, Seaborn                                                                            |
-| **Web Development**        | React, Node.js, HTML, CSS, JavaScript                                                                             |
-| **Machine Learning**       | Supervised and Unsupervised Learning — Regression, Classification, Clustering, Random Forest, CNNs, Deep Learning |
-| **Cloud Platforms**        | Google Cloud Platform (GCP), Vertex AI), Streamlit                                                                |
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Technical Stack 🚀
+| Model | Accuracy | AUC |
+|---|---|---|
+| Supervised (no augmentation) | 78.1% | 0.845 |
+| Supervised (with augmentation) | 80.4% | 0.859 |
+| SimCLR + Fine-Tuning | **85.9%** | **0.872** |
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+The fine-tuned self-supervised model achieved both the highest clean accuracy and the strongest adversarial robustness across all tested perturbation strengths.
 
-## Favorite Quotes 🌟
-
-> "Data is the new oil." – Clive Humby  
-> "The best way to predict the future is to invent it." – Alan Kay  
-> "Artificial Intelligence is the next step in human evolution." – Anonymous  
-> "Every big idea starts with a single data point." – Nafisat Ibrahim 
-
-## Education 🎓
-- **University of North Texas**  
-  **Bachelor of Science in Mathematics**, Minor in Data Analytics (May 2024)  
-  **GPA**: 3.8/4.0  
-  **Relevant Coursework**: Data Analytics, Statistics, Data Wrangling, Machine Learning, Data Visualization, Computer Programming.  
-
-  **Achievements**:
-  - Dean's List Recipient for Outstanding Academic Performance.
-  - Completed machine learning-focused projects, including real estate price prediction and a collaborative filtering recommendation engine.
-  - 
-## 🏅 Certifications  
-
-- 🎓 **MIT Professional Education – Applied Data Science Program: Leveraging AI for Effective Decision-Making**  
-  [View Credential →](https://credentials.professional.mit.edu/586700a8-d0a2-4c13-b63b-34780a3fd9eb#acc.d243U0Dx)
-
-## Experience 🛠️
-
-### **Data Analyst**  
-**Exyte**, Dallas, TX (May 2024 – Present)  
-- Developed Power BI dashboards to visualize performance metrics.
-- Created predictive models in Python, improving workload forecasting accuracy.
-- Collaborate with cross-functional teams to support data-driven strategies and process improvements.
+</td>
+</tr>
+</table>
 
 ---
 
-### **Corporate VC & Business Analyst Extern**  
-**HP Tech Ventures**, New York, NY (January 2024 – May 2024)  
-- Analyzed pre-seed stage startups, leveraging SQL, Tableau, and Excel to evaluate business models, market strategies, and value chains.  
-- Identified high-potential investments and presented insights through market maps, data visualizations, and detailed reports.  
-- Contributed to strategic investment decisions through data analysis and comprehensive startup evaluations.
+## 🌟 Personal Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🩺 [Moha Health](https://github.com/Nafisatibrahim/moha_health)
+**Multi-Agent Triage System** · Hack Canada 2026
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+Multi-agent conversational AI with autonomous routing: intake, router, and specialist agents (dermatology, dental, cardiology) collaborate to produce a structured clinical-style report. Full stack built from scratch with FastAPI, Gemini orchestration, ElevenLabs voice I/O, and Supabase, deployed on Railway.
+
+**[Live demo](https://moha-health.replit.app)**
+
+</td>
+<td valign="top" width="50%">
+
+### 🥗 [DietVision.ai](https://github.com/Nafisatibrahim/DietVision-TheSmartPlaters)
+**AI-Powered Nutrition Assistant** · Women in AI Hackathon Canada
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+CNN-based food classification (Food-101) paired with Ella, a Gemini-powered conversational agent for personalized diet recommendations, connecting a vision model, an LLM reasoning layer, and a real-time chat interface into one system. Deployed on Streamlit Cloud with Google OAuth and Vertex AI.
+
+**[Demo video](https://youtu.be/BMKyicebEIg)**
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 💳 [Freddy.ai](https://github.com/Nafisatibrahim/freddy.ai)
+**Fraud & Behavioural Analytics**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+Reproducible, end-to-end fraud detection pipeline on financial transactions. Built a customer segmentation framework (K-Means, hierarchical clustering) and anomaly detection on transaction-level features, with a defined data contract and fraud-appropriate evaluation (PR-AUC, recall at fixed precision).
+
+</td>
+<td valign="top" width="50%">
+
+### 😊 [Facial Emotion Detection](https://github.com/Nafisatibrahim/facial_emotion_detection_deep_learning)
+**Deep Learning: Computer Vision**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+CNN trained on FER-2013 to classify seven facial emotions from image input, with architecture tuning and hyperparameter search. Deployed as a real-time Streamlit app for webcam or uploaded-image predictions.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*More projects on [github.com/Nafisatibrahim](https://github.com/Nafisatibrahim?tab=repositories)*
+
+</div>
 
 ---
 
-### **Data Coding, SQL & Python Trainee**  
-**The Global Tech Experience**, Denton, TX (May 2023 – July 2023)  
-- Gained hands-on experience with Python and SQL to conduct data analysis and statistical modeling.  
-- Extracted over 100K data points using SQL queries and visualized findings with Tableau dashboards, reducing analysis time by 30%.  
-- Conducted statistical analysis to uncover actionable insights, improving decision-making efficiency.
+## 🛠️ Skills & Tools
+
+**GenAI & Agentic AI**
+![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**ML & Deep Learning**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Languages & Data**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Cloud & Deployment**
+![GCP](https://img.shields.io/badge/-GCP_/_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Visualization & BI**
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Web**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
-### **Student Assistant**  
-**University of North Texas**, Denton, TX (April 2023 – May 2024)  
-- Supported faculty and staff by processing over 100 customer transactions daily with 99% accuracy.  
-- Improved departmental efficiency through administrative support and effective student communication.  
-- Achieved a 98% customer satisfaction rating by addressing inquiries promptly and professionally.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nafisatibrahim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Nafisatibrahim&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafisatibrahim&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+
+</div>
 
 ---
 
-### **Data Analyst Intern**  
-**DMEIB**, Abidjan, Côte d’Ivoire (May 2021 – August 2021)  
-- Reduced data processing time by 50% by automating workflows and utilizing Excel for data transformation.  
-- Conducted statistical analysis on customer survey data, resulting in a 10% improvement in customer satisfaction.  
-- Designed 36 high-visibility PowerPoint presentations to inform business decisions and drive outcomes.
+## 🎓 Education
 
+- **Master of Mathematics in Data Science**, University of Waterloo, *Waterloo, ON, expected Apr 2027*
+  Coursework: Machine Learning, Exploratory Data Analysis, Data Engineering, Statistical Inference & Probability
+- **Bachelor of Science in Mathematics**, Minor in Data Analytics, University of North Texas, *Denton, TX, May 2024*
+  GPA 3.8/4.0 · Dean's List
 
-## Projects 📚
-### [**DietVision.ai — AI-Powered Nutrition Assistant**](https://github.com/Nafisatibrahim/DietVision-TheSmartPlaters)  
-- Developed an **AI-powered nutrition web app** that analyzes meal images and provides detailed nutritional insights.  
-- Integrated a **food image classification model (Food-101)** using **TensorFlow and Keras** for accurate meal recognition.  
-- Designed an **intelligent chatbot (Ella)** using **Gemini API** to deliver personalized diet recommendations.  
-- Deployed on **Streamlit Cloud**, integrating **Google OAuth** and **Vertex AI** for authentication and inference.
+## 🏅 Certifications
+
+- **Certified Anti-Money Laundering Specialist (CAMS)**, ACAMS · *in progress, expected 2026*
+- **MIT Professional Education, Applied Data Science: Leveraging AI for Effective Decision-Making** ([View credential](https://credentials.professional.mit.edu/586700a8-d0a2-4c13-b63b-34780a3fd9eb#acc.d243U0Dx))
 
 ---
 
-### [**Facial Emotion Detection**](https://github.com/Nafisatibrahim/facial_emotion_detection_deep_learning)  
-- Built a **Convolutional Neural Network (CNN)** model to detect and classify human emotions from facial expressions.  
-- Trained on **FER-2013 dataset** using **TensorFlow and Keras** to identify key emotions such as happiness, anger, and sadness.  
-- Designed a **Streamlit interface** for real-time emotion detection from uploaded images or webcam input.  
-- Applied **OpenCV preprocessing** and data augmentation to improve accuracy and robustness.
+## Let's Connect 🔗
 
----
+<div align="center">
 
-### [**Real Estate Market Analysis**](https://github.com/Real-Estate-Analysis-Unveiling-Trends-and-Predicting-Prices)  
-- Built a predictive model using Random Forest Regressor for accurate real estate price forecasting.  
-- Designed an interactive user interface for real-time predictions, benefiting real estate investors.
+<a href="https://nafisatibrahim.com"><img src="https://img.shields.io/badge/Portfolio-nafisatibrahim.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nafisatibrahim"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+<a href="https://medium.com/@nafisat.ibrahim"><img src="https://skillicons.dev/icons?i=medium" width="40" height="40" alt="Medium" /></a>
+<a href="mailto:nafisat.larissa.ibrahim@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
 
----
-
-### [**Book Recommendation Engine**](https://github.com/NafisatIbrahim/Book-Recommendation-Engine)  
-- Developed a collaborative filtering recommendation engine using Python and Google Books API.  
-- Created an interactive frontend with React and backend with Node.js/Express for personalized recommendations.
-
----
-
-### [**Walking Styles Statistical Analysis**](https://github.com/NafisatIbrahim/SillyWalks-EnergyExpenditure)  
-- Conducted a statistical analysis of energy expenditure in walking styles using ANOVA and regression analysis in R.  
-- Published actionable insights for applications in fitness and physical therapy.
-
-
-## Leadership and Other Activities 🌟
-- Active Member of the National Society of Leadership & Success.
-- Engaged in the HelloFinance Virtual Summer Series, absorbing knowledge from industry giants like Morgan Stanley and Goldman Sachs.
-
-## Certifications 🏅
-- **IBM AI Developer Professional Certificate**  
-- **KPMG Virtual Internship in Data Analytics**
-
-## Relevant Courses 📚
-
-| **Course Name**                              | **Platform**    | **Skills Learned**                                                                                   | **Link**                                                                                                     |
-|----------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Python for Data Science, AI & Development    | IBM             | Python programming, data analysis, using libraries like Pandas & NumPy, API usage, and web scraping | [View Certificate](https://coursera.org/share/12b9537f300e185344c3850bd5c1dd03)                              |
-| Introduction to HTML, CSS, & JavaScript      | IBM             | Web development basics, HTML/CSS, dynamic JavaScript                                                | [View Certificate](https://coursera.org/share/a65dc268a00a692694a8833d35771369)                              |
-| Generative AI: Prompt Engineering Basics     | IBM             | Prompt crafting, neural networks, generative AI applications                                        | [View Certificate](https://coursera.org/share/6ea7057659b6c40c47eeac50a366d14a)                              |
-| Generative AI: Introduction and Applications | IBM             | Fundamentals of generative AI, deep learning workflows                                              | [View Certificate](https://coursera.org/share/94677e30e6fba783217e409997f9b15e)                              |
-| Introduction to Artificial Intelligence (AI) | IBM             | AI technologies, machine learning, computer vision                                                  | [View Certificate](https://coursera.org/share/5a836794bb360a805639cc8ba011e164)                              |
-| Introduction to Software Engineering         | IBM             | Agile development, software engineering tools, application design                                   | [View Certificate](https://coursera.org/share/89fd260782af697746cd625329792934)                              |
-| What is Data Science?                        | IBM             | Data science concepts, big data, data mining, machine learning                                      | [View Certificate](https://coursera.org/share/28f34fde0abe09350a36efcb21d6242a)                              |
-
-
-## What I'm Working On 🚀
-- Learning advanced machine learning techniques and cloud computing (GCP).  
-- Building a portfolio of interactive dashboards and machine learning models.  
-- Writing articles on AI and its societal impact on my LinkedIn series, "Exploring AI with Nafisat."
-
-
-
-## Interests 👌
-- I enjoy skydiving, being an active member of the National Society of Leadership and Success, and continually learning and growing in the field of data science.
-
-## Connect with Me 🔗
-- 📫 Email: [nafisat.l@outlook.com](mailto:nafisat.l@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/nafisat-ibrahim-14508725a](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)  
-- 🌐 GitHub: [github.com/NafisatIbrahim](https://github.com/NafisatIbrahim)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
-
-<!-- Actual link to your LinkedIn profile -->
-[linkedin]: https://www.linkedin.com/in/nafisat-ibrahim-14508725a
-
-<!-- Badges -->
-[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!---
-Nafisatibrahim/Nafisatibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
